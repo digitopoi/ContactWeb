@@ -21,7 +21,6 @@ namespace ContactWeb
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/css/bootstrap.min.css",
-                      "~/css/bootstrap-theme.min.css",
                       "~/css/jquery.dataTables.min.css",
                       "~/css/jquery.dataTables_themeroller.css",
                       "~/css/dataTables.bootstrap.min.css",
